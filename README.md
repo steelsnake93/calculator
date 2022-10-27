@@ -14,10 +14,10 @@
 
     1. Store all components on HTML to JS.
     2. Assign global variable.
-    3. Create function witch can use actual button numbers and display them. (I decide to lock displaying numbers to max 10 numbers on screen!)
+    3. Create function witch can use actual button numbers and display them. (I decide to lock displaying max 10 numbers on screen!)
     - After couple of ours searching how can i do this step, learned that can be done with text.COntent, which use the text content form the button already assigned in HTML.
-    
+
     Next to do:
-    4. Create another function now for operators.
-    5. Add functionality for other buttons Clear-all, delete, equal, decimal.
-    6. Then need to connect everything together to calculate.
+    4. Create another function now for operators. -done.
+    5. Add functionality for other buttons Clear-all, delete, equal, decimal. -done.
+    6. Then need to connect everything together to calculate. -not yet
